@@ -30,3 +30,7 @@ The PracticePipeline is responsible for processing the scraped data and insertin
 Create Connection: Establishes a connection to the SQLite database.
 Create Table: Creates a table within the database if it does not already exist.
 Store Data: Inserts the scraped data into the database, ensuring data integrity and consistency.
+
+## Data Stored In SQLite as follows:
+![WhatsApp Image 2024-06-06 at 05 13 26_40444cbe](https://github.com/Rakesh-Seenu/Web_Scrapping/assets/126412041/bb1f0bd9-9845-4136-8cb1-b4c76cb387ec)
+
